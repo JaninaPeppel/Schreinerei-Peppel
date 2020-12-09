@@ -1,0 +1,72 @@
+body, html {
+	width: 100%;
+	height: 100%;
+	font-family: 'Raleway', sans-serif;
+
+	background: url(Holzmaserung.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.btn-outline-success {
+	border-color: #A3582D;
+	color: #A3582D;
+}
+
+.btn-outline-success:hover {
+	border-color: #A3582D;
+	background-color: #A3582D;
+}
+
+.jumbotron {
+	background-image: url(https://img.freepik.com/fotos-kostenlos/spoiled-holzbretter_1232-535.jpg?size=626&ext=jpg);
+	background-size: cover;
+	color: white;
+	height: 350px;
+}
+
+hr {
+	border-color: #DB9D7B;
+	border-width: 2px;					/*Dicke der Linie*/
+	max-width: 80px;					/*Länge der Linie*/
+}
+
+.btn {
+	font-weight: 5rem;
+	/*text-transform: uppercase;*/
+	/*border-radius: 300px;*/
+}
+
+.dialogbutton {
+	text-align: center;
+}
+
+.btn-dialog {
+	background-color: #DB9D7B;
+}
+
+.btn-dialog:hover {
+	background-color: #A3582D;
+	color: white;
+	border-width: 2px;					/*button wird beim hover-effekt etwas größer*/
+}
+
+.col {
+	background-color: lightgrey;
+	border: 1px solid grey;
+	text-align: center;
+}
+
+
+.testüberschrift {
+	text-align: center;
+}
+
+footer {
+	margin: 15px;
+	text-align: center;
+	color: grey;
+	font-size: 0.8rem;
+}
