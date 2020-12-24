@@ -2,6 +2,7 @@ body, html {
 	width: 100%;
 	height: 100%;
 	font-family: 'Raleway', sans-serif;
+	color: #641e16; 
 
 	background: url(Holzmaserung.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
@@ -21,7 +22,7 @@ body, html {
 }
 
 .jumbotron {
-	background-image: url(https://img.freepik.com/fotos-kostenlos/spoiled-holzbretter_1232-535.jpg?size=626&ext=jpg);
+	background-image: url(Holzmaserung2.jpg);
 	background-size: cover;
 	color: white;
 	height: 350px;
